@@ -1,2 +1,2 @@
-def position_taken?(X,O) 
+def position_taken?(x,o) 
 end
